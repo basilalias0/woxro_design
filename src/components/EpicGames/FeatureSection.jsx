@@ -1,22 +1,22 @@
 
 import FeatureCard from "./FeatureCard";
+import FeatureImg1 from '../assets/FeatureImg1.png'
+import FeatureImg2 from '../assets/FeatureImg2.png'
+import FeatureImg3 from '../assets/FeatureImg3.png'
 
 const features = [
   {
-    image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/e64018205938fb5647502e00891be1876ea01d9eb9857d8f6f83f1590bbbaa50?apiKey=5c025788d7dd4263bf85a4f7bfa9ed1a&",
+    image:FeatureImg1,
     description:
       "Explore large, destructible environments where no two games are ever the same.",
   },
   {
-    image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/5384cf89d6792b5547fe9e64eecae0553a1b4ac00a0ed03d36cf2e6b3ec49546?apiKey=5c025788d7dd4263bf85a4f7bfa9ed1a&",
+    image:FeatureImg2,
     description:
       "Team up with friends by sprinting, climbing and smashing your way to earn your Victory Royale",
   },
   {
-    image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/da880c10dbd330f12bac2e7528d9c542e662501af99f195e0d7c6bc2185bfa1a?apiKey=5c025788d7dd4263bf85a4f7bfa9ed1a&",
+    image:FeatureImg3,
     description:
       "Discover even more ways to play across thousands of creator-made game genres",
   },
