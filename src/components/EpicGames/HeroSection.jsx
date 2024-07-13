@@ -3,7 +3,7 @@ import HeroImg from '../assets/HeroSection.png'
 function HeroSection() {
   return (
     <section className="flex flex-col items-center self-center mt-14 w-full max-w-[1415px] max-md:mt-10 max-md:max-w-full">
-      <h1 className="text-5xl font-extralight tracking-wider leading-10 text-center text-white capitalize max-md:max-w-full max-md:text-3xl max-md:tracking-wider max-md:leading-10 max-sm:text-2xl max-sm:leading-9">
+      <h1 className="text-5xl font-extralight  leading-10 text-center text-white capitalize max-md:max-w-full max-md:text-3xl max-md:tracking-wider max-md:leading-10 max-sm:text-2xl max-sm:leading-9">
         Epic Games : An American video game and software developer and publisher
         based in Cary, North Carolina.
       </h1>
