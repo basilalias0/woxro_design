@@ -23,7 +23,7 @@ function HeroSection() {
       </p>
       <a
         href="#"
-        className="justify-center items-center px-16 py-6 mt-14 max-w-full text-xl tracking-wider text-center text-black bg-white w-[416px] max-md:px-5 max-md:mt-10"
+        className="justify-center items-center px-16 py-6 mt-14 max-w-full text-xl tracking-wider text-center text-black bg-white w-[416px] max-md:px-5 max-md:mt-10 hover:bg-black hover:text-white hover:border border-white border-solid "
       >
         Visit Website
       </a>

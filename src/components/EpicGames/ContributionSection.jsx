@@ -13,7 +13,7 @@ function ContributionSection() {
       <h2 className="text-5xl font-extralight leading-10 text-white capitalize max-md:text-4xl">
         Our Contribution
       </h2>
-      <p className="mt-10 text-lg text-center text-white w-[1142px] max-md:max-w-full">
+      <p className="mt-10 text-lg text-center text-white max-w-[1142px] w-auto max-md:max-w-full">
         Our core offering extends beyond mere profit generation; we emphasize
         the growth and active involvement of our user community. Collaborating
         with us represents an investment, rather than a mere expenditure. Our
