@@ -16,6 +16,12 @@ function App() {
       <ContributionSection />
       <ContactSection />
       <Footer />
+      
+      
+      
+      
+      
+      
     </main>
   );
 }

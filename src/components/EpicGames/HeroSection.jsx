@@ -3,7 +3,7 @@ import HeroImg from '../assets/HeroSection.png'
 function HeroSection() {
   return (
     <section className="flex flex-col items-center self-center mt-14 w-full max-w-[1415px] max-md:mt-10 max-md:max-w-full">
-      <h1 className="text-5xl font-extralight  leading-10 text-center text-white capitalize max-md:max-w-full max-md:text-3xl max-md:tracking-wider max-md:leading-10 max-sm:text-2xl max-sm:leading-9">
+      <h1 className="text-5xl  font-roboto leading-12 text-center tracking-[0.96px] leading-[48px] text-white capitalize max-md:max-w-full max-md:text-3xl max-md:tracking-wider max-md:leading-10 max-sm:text-2xl max-sm:leading-9 font-thin">
         Epic Games : An American video game and software developer and publisher
         based in Cary, North Carolina.
       </h1>
@@ -13,7 +13,7 @@ function HeroSection() {
         alt="Epic Games showcase"
         className="self-stretch mt-12 w-full aspect-[2.86] max-md:mt-10 max-md:max-w-full"
       />
-      <p className="mt-14 text-lg text-center text-white max-md:mt-10 max-md:max-w-full max-md:text-base">
+      <p className="mt-14 w-auto text-lg text-center text-white max-w-[1231px] max-md:mt-10 max-md:w-auto max-md:max-w-full max-md:text-base font-poppins max-sm:text-sm">
         Create, play, and battle with friends for free in Fortnite. Be the last
         player standing in Battle Royale and Zero Build, experience a concert or
         live event, or discover over a million creator made games, including
@@ -23,7 +23,7 @@ function HeroSection() {
       </p>
       <a
         href="#"
-        className="justify-center items-center px-16 py-6 mt-14 max-w-full text-xl tracking-wider text-center text-black bg-white w-[416px] max-md:px-5 max-md:mt-10 hover:bg-black hover:text-white hover:border border-white border-solid "
+        className="justify-center items-center px-20 py-4 mt-14 max-w-full text-xl tracking-wider text-center font-poppins text-black bg-white w-[416px] max-md:px-5 max-md:mt-10 hover:bg-black hover:text-white border border-white border-solid "
       >
         Visit Website
       </a>

@@ -10,7 +10,7 @@ function FeatureCard({ image, description }) {
           alt="Feature illustration"
           className="w-full aspect-square"
         />
-        <p className="self-center mt-9 max-md:text-base">{description}</p>
+        <p className="self-center font-roboto mt-9 max-md:text-base">{description}</p>
       </div>
     </div>
   );
