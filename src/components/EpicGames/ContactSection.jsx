@@ -25,7 +25,7 @@ function ContactSection() {
           href="#"
           className="flex flex-col grow shrink-0 justify-center text-white basis-0 w-fit bg-white"
         >
-          <div className="justify-center items-center text-black  py-5 border border-white border-solid max-md:px-4 max-sm:px-3 max-sm:py-4 hover:bg-black hover:text-white hover:border border-white border-solid font-poppins ">
+          <div className="justify-center items-center text-black  py-5 border border-white border-solid max-md:px-4 max-sm:px-3 max-sm:py-4 hover:bg-black hover:text-white  font-poppins ">
           Contact Us
           </div>
           
